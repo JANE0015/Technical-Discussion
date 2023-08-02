@@ -15,4 +15,4 @@ This is a Gist example [my code](https://gist.github.com/JANE0015/a57bc3b44eeb37
 This is the [notebook](technical_docs.ipynb)
 
 ### Images
-https://github.com/JANE0015/Technical-Discussion/issues/1#issue-1832672271
+![ss](https://github.com/JANE0015/Technical-Discussion/assets/67865147/5ffe13fd-2753-442c-9c12-79484e64a2f8)
