@@ -13,3 +13,6 @@ This is a Gist example [my code](https://gist.github.com/JANE0015/a57bc3b44eeb37
 
 ### Colab Example
 This is the [notebook](technical_docs.ipynb)
+
+### Images
+https://github.com/JANE0015/Technical-Discussion/issues/1#issue-1832672271
